@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a calculator
-- 🌱 I’m currently learning Java, HTML, CSS & more.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 📫 How to reach me: Discord
 - ⚡ Fun fact: ...
 -->
