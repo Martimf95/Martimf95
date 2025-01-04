@@ -1,12 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Martim! 👋
 
-<!--
-**Martimf95/Martimf95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open source projects. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning Machine Learning Algorithms.
+- 
+## 🛠️ Languages and Tools
+- **Languages**: Python, Java, Lua, HTML, CSS, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: Discord
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Martim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martimf95&show_icons=true&theme=radical)
+
+Thank you for visiting my profile!
